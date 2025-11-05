@@ -6,6 +6,7 @@ Asegúrate de tener Docker y npm instalados y funcionando.
 npm audit
 
 # Audita e intenta corregir automáticamente las vulnerabilidades menores
+
 npm audit fix
 
 Escaneo Avanzado con Dependency-Check (Docker + CLI)
