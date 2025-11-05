@@ -9,7 +9,8 @@ npm audit
 
 npm audit fix
 
-Escaneo Avanzado con Dependency-Check (Docker + CLI)
+#Escaneo Avanzado con Dependency-Check (Docker + CLI)
+
 docker run --rm \
     -v $(pwd):/src \
     owasp/dependency-check \
